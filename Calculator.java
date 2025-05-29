@@ -8,6 +8,7 @@ public class Calculator {
 
     //Define los métodos basándote en su doc comment.
 
+    //Ejercicio 1:
     /**
      * Function name: add
      * 
@@ -20,6 +21,7 @@ public class Calculator {
      */
     
 
+     //Ejercicio 2:
     /**
      * Function name: subtract
      *
@@ -32,6 +34,7 @@ public class Calculator {
      */
     
 
+    //Ejercicio 3:
     /**
      * Function name: multiply
      * 
@@ -44,6 +47,7 @@ public class Calculator {
      */
     
 
+    //Ejercicio 4:
     /**
      * Function name: divide
      * 

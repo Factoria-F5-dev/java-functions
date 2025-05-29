@@ -55,7 +55,7 @@ public class DocComments {
         return bmi;
     }
 
-    //Escribe una función que con el índice de masa corporal devuelva un String con los resultados y documéntala:
+    //Ejercicio 1: Escribe una función que con el índice de masa corporal devuelva un String con los resultados y documéntala:
     
     /* Clasificación índice de masa corportal rango - kg/m2
     Delgadez severa	< 16

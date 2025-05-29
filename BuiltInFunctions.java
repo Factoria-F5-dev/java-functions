@@ -5,18 +5,20 @@ public class BuiltInFunctions {
 
     }
 
-    /**
+        //Ejercicio 1:
+        /**
          * Function name: printMessage
          * 
          * @param message (String)
          * 
          * Inside the function:
          * 1. Find a java built-in function that prints the message on the console.
-         */
+        */
 
         // Escribe tu código aquí
         
-
+    
+        //Ejercicio 2:
         /**
          * Function name: getLength
          * 
@@ -30,6 +32,7 @@ public class BuiltInFunctions {
         // Escribe tu código aquí
 
 
+        //Ejercicio 3:
         /**
          * Function name: convertToLowercase
          * 
@@ -43,6 +46,7 @@ public class BuiltInFunctions {
         // Escribe tu código aquí
 
 
+        //Ejercicio 4:
         /**
          * Function name: findPrefix
          * 
@@ -57,6 +61,7 @@ public class BuiltInFunctions {
         // Escribe tu código aquí
 
 
+        //Ejercicio 5:
         /**
          * Function name: replaceCharacters
          * 
@@ -71,7 +76,8 @@ public class BuiltInFunctions {
 
         // Escribe tu código aquí
 
-        
+
+        //Ejercicio 6:
         /**
          * Function name: getsSquareRoot
          * 
@@ -85,6 +91,7 @@ public class BuiltInFunctions {
         // Escribe tu código aquí
 
 
+        //Ejercicio 7:
         /**
          * Function name: getPower
          * 
@@ -99,6 +106,7 @@ public class BuiltInFunctions {
         // Escribe tu código aquí
 
 
+        //Ejercicio 8:
         /**
          * Function name: getRandomNumber
          *
@@ -111,6 +119,7 @@ public class BuiltInFunctions {
         // Escribe tu código aquí
 
 
+        //Ejercicio 9:
         /**
          * Function name: maxNumber
          * 
